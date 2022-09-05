@@ -1,1 +1,1 @@
-Display the content of the /etc/passwd file
+task 2 code
